@@ -1,6 +1,6 @@
 # Taxi ! :taxi:
 
-La librairie `taxi_company` permet de modéliser le problème suivant [(Lien vers le sujet)](https://example.com/ "titre de lien optionnel") en termes de *graphes*.
+La librairie `taxi_company` permet de modéliser le problème suivant [(Lien vers le sujet)](https://github.com/CDucloux/Taxi-company/blob/main/Sujet.md) en termes de *graphes*.
 
 Elle répondra aux exigeances suivantes :
 - Déterminer le chemin le plus court de la compagnie de taxi à l'aéroport
