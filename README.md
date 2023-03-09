@@ -4,7 +4,7 @@ Shields à ajouter pour les tests qui sont passés, les test coverage, les depen
 
 ## Présentation
 
-La librairie `taxi_driver` permet de modéliser le problème suivant [(Lien vers le sujet)](https://github.com/CDucloux/Taxi-company/blob/main/Sujet.md) en termes de *graphes*.
+La librairie `taxi_driver` permet de modéliser le problème suivant [(Lien vers le sujet)](https://github.com/CDucloux/Taxi-company/blob/main/Sujet.md) en termes de *graphe pondéré*.
 
 Elle répondra aux exigeances suivantes :
 - Déterminer le chemin le plus court de la compagnie de taxi à l'aéroport
