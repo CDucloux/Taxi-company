@@ -2,6 +2,8 @@
 
 Shields à ajouter pour les tests qui sont passés, les test coverage, les dependencies et la version -> voir Shields.Io
 
+- Il s'agit d'un problème de graphe **non-orienté** 
+
 ## Présentation
 
 La librairie `taxi_driver` permet de modéliser le problème suivant [(Lien vers le sujet)](https://github.com/CDucloux/Taxi-company/blob/main/Sujet.md) en termes de *graphe pondéré*.
