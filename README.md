@@ -2,7 +2,7 @@
 
 Shields à ajouter pour les tests qui sont passés, les test coverage, les dependencies et la version -> voir Shields.Io
 
-- Il s'agit d'un problème de graphe **non-orienté** 
+- Il s'agit d'un problème de graphe **non-orienté et pondéré** 
 
 ## Présentation
 
