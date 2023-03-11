@@ -3,7 +3,7 @@
 Shields à ajouter pour les tests qui sont passés, les test coverage, les dependencies et la version -> voir Shields.Io
 
 - Il s'agit d'un problème de graphe **non-orienté et pondéré** 
-- Le graphe est symétrique car on pour chaque arrête $x$ - $y$, il existe une arrête $y-x$ (on peut parcourir la route dans les deux sens)
+- Le graphe est symétrique car pour chaque arrête $x - y$, il existe une arrête $y-x$ (on peut parcourir la route dans les deux sens)
 
 ## Présentation
 
