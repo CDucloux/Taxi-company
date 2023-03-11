@@ -17,7 +17,7 @@ Elle répondra aux exigeances suivantes :
 
 ## Résolution
 
-TODO
+TOUT DOUX
 
 ### Exemples
 
