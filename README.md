@@ -12,20 +12,28 @@ Shields à ajouter pour les tests qui sont passés, les test coverage, les depen
 La librairie `taxi_driver` permet de modéliser le problème suivant [(Lien vers le sujet)](https://github.com/CDucloux/Taxi-company/blob/main/Sujet.md) en termes de *graphe pondéré*.
 
 Elle répondra aux exigeances suivantes :
-- Déterminer le chemin le plus court de la compagnie de taxi à l'aéroport -OK
-- Déterminer les chemins les plus courts entre tous les points de la ville -OK
-- Etudier l'impact d'un ralentissement ou d'une fluidification sur la route **9-13** $\Rightarrow$ Généralisation à tous les segments -OK
-- Les emplacements **(3,5,7,9,11)** sont en travaux $\Rightarrow$ Tout passage par un de ces lieux ajoute +1 minute au trajet -PAS OK mais facile
+- [x] Déterminer le chemin le plus court de la compagnie de taxi à l'aéroport
+- [x] Déterminer les chemins les plus courts entre tous les points de la ville
+- [x] Etudier l'impact d'un ralentissement ou d'une fluidification sur la route **9-13** $\Rightarrow$ Généralisation à tous les segments
+- [ ] Les emplacements **(3,5,7,9,11)** sont en travaux $\Rightarrow$ Tout passage par un de ces lieux ajoute +1 minute au trajet
 
 ## Résolution
 
 
 
-### Exemples
+### Utilisation de la **Command Line Interface**
 
 ```python
-Code pas encore implémenté
+py -m app emplacements
 ```
+
+- Affiche la liste des emplacements disponibles de la ville.
+
+```python
+py -m app routes
+```
+
+- Affiche la liste des routes reliant des emplacements de la ville, et leur durée de parcours.
 
 ## Caractéristiques
 
