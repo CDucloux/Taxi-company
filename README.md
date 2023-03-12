@@ -1,6 +1,6 @@
 # Taxi driver :taxi:
 
-![Roberto](http://www.parisfaitsoncinema.com/cache/media/de-niro-590/cr%2C640%2C450-7f7085.jpg)
+<img src="http://www.parisfaitsoncinema.com/cache/media/de-niro-590/cr%2C640%2C450-7f7085.jpg" width=40% height=40% align="right">
 
 Shields à ajouter pour les tests qui sont passés, les test coverage, les dependencies et la version -> voir Shields.Io
 
