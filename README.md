@@ -1,5 +1,7 @@
 # Taxi driver :taxi:
 
+![Roberto](http://www.parisfaitsoncinema.com/cache/media/de-niro-590/cr%2C640%2C450-7f7085.jpg)
+
 Shields à ajouter pour les tests qui sont passés, les test coverage, les dependencies et la version -> voir Shields.Io
 
 - Il s'agit d'un problème de graphe **non-orienté et pondéré** 
@@ -17,7 +19,7 @@ Elle répondra aux exigeances suivantes :
 
 ## Résolution
 
-TOUT DOUX
+
 
 ### Exemples
 
@@ -31,4 +33,5 @@ Code pas encore implémenté
 - Formatage du code par `black` pour correspondre à la norme **PEP 8**
 - Gestion des *dependencies* avec `poetry`
 - Type checking avec `mypy`
+- Création d'une `cli` avec `typer`
 - Tests unitaires et tests d'intégrations avec `pytest` et couverture des tests avec `pytest-cov`
