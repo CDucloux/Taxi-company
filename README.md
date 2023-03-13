@@ -1,4 +1,4 @@
-# Taxi driver :taxi:_____________________________________________:taxi:
+# Taxi driver :taxi:______________________________________:taxi:
 
 <img src="http://www.parisfaitsoncinema.com/cache/media/de-niro-590/cr%2C640%2C450-7f7085.jpg" width=40% height=40% align="right">
 
